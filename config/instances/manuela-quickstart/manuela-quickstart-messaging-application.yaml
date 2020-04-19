@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/sa-mw-dach/manuela-gitops.git
+    repoURL: git@github.com:stefan-bergstein/manuela-gitops.git
     targetRevision: 257_first_steps
     path: config/instances/manuela-quickstart/messaging
   destination:
